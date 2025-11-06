@@ -1,0 +1,10 @@
+### Maven build output ###
+target/
+
+### IDE files ###
+.idea
+*.iml
+.vscode
+
+### Local dependencies/caches ###
+.mvn
